@@ -1,0 +1,6 @@
+{
+  "subject": "acct:demo@bookloggr.com",
+  "links": [
+   {"rel": "self", "type": "application/activity+json", "href": "https://otisburg.social/actor/demo@bookloggr.com"}
+  ]
+}
