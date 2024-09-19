@@ -1,6 +1,6 @@
 {
-  "subject": "acct:rep@stealthbanana.com",
+  "subject": "acct:test@stealthbanana.com",
   "links": [
-   {"rel": "self", "type": "application/activity+json", "href": "http://localhost:3000/actor/rep@stealthbanana.com"}
+   {"rel": "self", "type": "application/activity+json", "href": "http://localhost:3000/actor/test@stealthbanana.com"}
   ]
 }
