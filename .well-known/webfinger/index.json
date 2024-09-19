@@ -1,6 +1,6 @@
 {
-  "subject": "acct:demo@bookloggr.com",
+  "subject": "acct:rep@stealthbanana.com",
   "links": [
-   {"rel": "self", "type": "application/activity+json", "href": "https://otisburg.social/actor/demo@bookloggr.com"}
+   {"rel": "self", "type": "application/activity+json", "href": "http://localhost:3000/actor/rep@stealthbanana.com"}
   ]
 }
